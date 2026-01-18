@@ -1,3 +1,5 @@
 This is the first line of my first project.
 
 Addition to file 1.
+
+Bait 2.
